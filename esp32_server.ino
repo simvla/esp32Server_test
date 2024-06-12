@@ -10,8 +10,8 @@ String dot=".";
 
 AsyncWebServer server(80);
 
-const char* ssid = "Redmi9A";
-const char* password = "";
+const char* ssid = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
 
 const char index_html [] PROGMEM =R"rawliteral(<p style="font-size:70px">Temperature:<span style="color:blue">%T%</span>C</p>)rawliteral";
 
