@@ -5,4 +5,4 @@ Dependicies:
 [Esp32AsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) 
 [AsyncTCP](https://github.com/me-no-dev/AsyncTCP)
 
-This code is part of my Youtube channel video serial.
+
