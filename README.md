@@ -1,4 +1,4 @@
-This is a simple Esp32 web server example that simulates temperature readings from a sensor.
+This is a minimalistic Esp32 web server example that simulates temperature readings from a sensor.
 Each time the page is refreshed, a new value is shown.
 
 Dependicies:
