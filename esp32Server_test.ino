@@ -60,8 +60,7 @@ void loop() {
   if(t<0){
     if(t>-10) Tstr=String(minus+(t/10)+dot+((~t+1)-(((~t+1)/10)*10)));
     else Tstr=String((t/10)+dot+((~t+1)-(((~t+1)/10)*10)));
-  } 
-  else Tstr=String((t/10)+dot+(t-((t/10)*10)));
+  }else Tstr=String((t/10)+dot+(t-((t/10)*10)));
   Serial.print(Tstr);
   Serial.print("\n");
 }
